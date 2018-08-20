@@ -8,7 +8,7 @@ Building off the VADER sentiment analysis tools (Valence Aware Dictionary and sE
 
 ## Data:
 
-Kanye.csv - Collection of 3692 recent public tweets with the hashtag #Kanye
+[Kanye.csv](https://github.com/SilasNeptune/Sentiment-Analysis/blob/master/kanye.csv) - Collection of 3692 recent public tweets with the hashtag #Kanye
 West.csv - Collection of 31732 recent public tweets with the hashtag #Kanyewest (including duplicates*)
 Allkanyewest.csv - 30895 Kanye and Kanyewest combined with duplicates* removed
 Fromk.csv - 180 Recent public tweets from Kanye West’s account 
@@ -20,7 +20,7 @@ Fromjk.csv - 181 Recent public tweets from Jimmy Kimmel’s account
 
 ## Code:
 
-[Data](https://github.com/SilasNeptune/Dental-Health-in-Youth/blob/master/CleanData.ipynb) : Creating Twitter App to gather tweets using hashtags relating to Kanye West or from certain celebrities. 
+[Data](https://github.com/SilasNeptune/Sentiment-Analysis/blob/master/Data.ipynb) : Creating Twitter App to gather tweets using hashtags relating to Kanye West or from certain celebrities. 
 
 
 [Exploratory Data Analysis](https://github.com/SilasNeptune/Dental-Health-in-Youth/blob/master/EDA_and_Inferential_Statistics.ipynb) : Exploring different trends in each variable along with correlations and trends among them. Using graphs and tables to get a better understanding of the world's distributions.
