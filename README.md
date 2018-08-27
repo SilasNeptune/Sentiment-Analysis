@@ -34,4 +34,6 @@ Building off the VADER sentiment analysis tools (Valence Aware Dictionary and sE
 
 ## Reports
  
-TBD
+[Twitter Sentiment Analysis](https://github.com/SilasNeptune/Sentiment-Analysis/blob/master/Capstone%20Project%202%20Sentiment%20Analysis%20Final.pdf) : Full Report on Project
+
+Presentation TBD
