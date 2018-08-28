@@ -10,9 +10,9 @@ Building off the VADER sentiment analysis tools (Valence Aware Dictionary and sE
 
 [Kanye.csv](https://github.com/SilasNeptune/Sentiment-Analysis/blob/master/kanye.csv) - Collection of 3692 recent public tweets with the hashtag #Kanye
 
-[West.csv](https://github.com/SilasNeptune/Sentiment-Analysis/blob/master/west.csv) - Collection of 31,732 recent public tweets with the hashtag #Kanyewest (including duplicates*)
+[West.csv](https://github.com/SilasNeptune/Sentiment-Analysis/blob/master/west.csv) - Collection of 31,682 recent public tweets with the hashtag #Kanyewest (including duplicates*)
 
-[Allkanyewest.csv](https://github.com/SilasNeptune/Sentiment-Analysis/blob/master/allkanyewest.csv) - Roughly 30,000 Kanye and Kanyewest combined with duplicates* removed
+[Allkanye.csv](https://github.com/SilasNeptune/Sentiment-Analysis/blob/master/allkanye.csv) - 35,323 Kanye and Kanyewest combined with duplicates* removed
 
 [Fromk.csv](https://github.com/SilasNeptune/Sentiment-Analysis/blob/master/fromk.csv) - 180 Recent public tweets from Kanye West’s account 
 
